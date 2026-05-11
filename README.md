@@ -25,4 +25,3 @@ let now = new Date();
 let displat = now.toLocaleTimeString();
 document.write('현재 시각은 $(display)입니다.');
 ```
-
