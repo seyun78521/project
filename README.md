@@ -14,6 +14,7 @@
 * JDK로 vs code를 사용하여 프로젝트를 진행하였습니다.
 + 프로젝트는 협업을 통한 오목 프로그램의 구현을 목적으로 합니다.
 - 팀장: 배승재 <http://github.com/bsjjay20060u14-debug>
+- 팀원: 정세윤 <http://github.com/seyun78521-debug>
 ****
 
 ```
